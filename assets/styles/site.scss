@@ -48,9 +48,9 @@ body {
   background-size: cover;
 }
 
-// @media (min-width: 1024px) { 
-//   body { background: url(/assets/images/bg-large.jpg) no-repeat center center fixed; }
-// }
+@media (min-width: 1024px) { 
+  body { background: url(/assets/images/bg-large.jpg) no-repeat center center fixed; }
+}
 
 @media (min-width: 1500px) { 
   body {
