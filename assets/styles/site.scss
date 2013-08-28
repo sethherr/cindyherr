@@ -47,7 +47,7 @@ body {
   font-size: $standardFontSize;
   font-family: $baseFont;
   font-weight: 200;
-  background: url(/assets/images/bg-medium.jpg) no-repeat center center fixed; 
+  background: url(http://sethherr.github.io/cindyherr/assets/images/bg-medium.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -55,23 +55,23 @@ body {
 }
 
 @media (min-device-width: 1024px) and (max-device-width: 1500px) { 
-  body { background: url(/assets/images/bg-large.jpg); }
+  body { background: url(http://sethherr.github.io/cindyherr/assets/images/bg-large.jpg); }
 }
 
 @media (min-device-width: 1500px) { 
-  body { background: url(/assets/images/bg-baller.jpg); }
+  body { background: url(http://sethherr.github.io/cindyherr/assets/images/bg-baller.jpg); }
 }
 
 @media (max-device-width: 669px) and (-webkit-min-device-pixel-ratio: 1.5) { 
-  body { background: url(/assets/images/bg-large.jpg); }
+  body { background: url(http://sethherr.github.io/cindyherr/assets/images/bg-large.jpg); }
 }
 
 @media (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5) { 
-  body { background: url(/assets/images/bg-medium-r.jpg); }
+  body { background: url(http://sethherr.github.io/cindyherr/assets/images/bg-medium-r.jpg); }
 }
 
 @media (min-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5) { 
-  body { background: url(/assets/images/bg-baller.jpg); }
+  body { background: url(http://sethherr.github.io/cindyherr/assets/images/bg-baller.jpg); }
 }
 
 
