@@ -41,7 +41,7 @@ body {
   font-size: $standardFontSize;
   font-family: $baseFont;
   font-weight: 200;
-  background: url(http://sethherr.github.io/cindyherr/assets/images/bg-medium.jpg) no-repeat center center fixed; 
+  background: url(/assets/images/bg-medium.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -49,12 +49,12 @@ body {
 }
 
 // @media (min-width: 1024px) { 
-//   body { background: url(http://sethherr.github.io/cindyherr/assets/images/bg-large.jpg) no-repeat center center fixed; }
+//   body { background: url(/assets/images/bg-large.jpg) no-repeat center center fixed; }
 // }
 
 @media (min-width: 1500px) { 
   body {
-    background: url(http://sethherr.github.io/cindyherr/assets/images/bg-baller.jpg) no-repeat center center fixed;
+    background: url(/assets/images/bg-baller.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
